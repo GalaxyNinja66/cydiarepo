@@ -1,0 +1,37 @@
+Package: applist
+Version: 1.5.11
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/applist_1.5.11_iphoneos-arm.deb
+Size: 147060
+MD5sum: 37a66dae8deb04ab76ed344fddf548b6
+SHA1: e3675b8d989f0eac5f0f39a2551df0256e1d3d65
+SHA256: dcfb6b23ad14ef62202fba564fb41d97938c01cccf60dadc6d3a72632d737137
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: com.jerryen.BlurEnabler
+Version: 0.3-1
+Architecture: iphoneos-arm
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 7.0), applist
+Conflicts: com.jerryen.fastblurrednotificationcenter7
+Filename: ./debs/com.jerryen.BlurEnabler_0.3-1_iphoneos-arm.deb
+Size: 28754
+MD5sum: ccf8b2bfed65a5ee434f3d3828eec465
+SHA1: 06389f5a7764c3955957251a94331ed46df42929
+SHA256: 296b0211a39d0bddee13fae54ed0d55ffa5d5efed72af3ae46578e83d43d02c1
+Section: System
+Description: Enable blur everywhere.
+Author: Jerry En <Jerry+blurenabler@jerryen.com>
+Depiction: http://cydia.jerryen.com/blurenabler.html
+Name: BlurEnabler
+
