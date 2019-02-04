@@ -1,0 +1,8 @@
+Origin: cydiarepo
+Label: Galaxyninja66/cydiarepo
+Suite: STable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Random hard to find packages in a single reupload repo
