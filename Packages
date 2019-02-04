@@ -1,7 +1,7 @@
 Package: applist
 Version: 1.5.11
 Architecture: iphoneos-arm
-Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Maintainer: Unknown
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
@@ -12,7 +12,7 @@ SHA1: e3675b8d989f0eac5f0f39a2551df0256e1d3d65
 SHA256: dcfb6b23ad14ef62202fba564fb41d97938c01cccf60dadc6d3a72632d737137
 Section: System
 Description: Allow extensions to read the list of installed apps
-Author: Ryan Petrich <rpetrich@gmail.com>
+Author: Unknown
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Dev: rpetrich
 Name: AppList
