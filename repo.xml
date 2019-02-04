@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/xorgbeep</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+    <link>
+    <name>Check out my Github</name>
+			<url>https://github.com/GalaxyNinja66</url>
+      <iconclass>fa fa-github</iconclass>
+      </link>
+		<link>
+			<name>Look at the repo template I used</name>
+			<url>https://github.com/supermamon/Reposi3/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
